@@ -32,6 +32,7 @@ Up to 29.97x throughput improvement with GPU acceleration
 Reduced latency from ~13.4 ms to ~1.6 ms per inference
 
 Peak GPU memory usage up to ~268 MB
+
 <img width="470" height="353" alt="ML_graph" src="https://github.com/user-attachments/assets/54ce6c63-efda-4bd8-885d-144505762a59" />
 
 Requirements:
